@@ -6,6 +6,43 @@
     <description>Recent content on SAMNIUM TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2024 22:33:05 +0100</lastBuildDate>
     <atom:link href="https://samnium-tech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://samnium-tech.github.io/about/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/about/</guid>
+      <description>This is the ABOUT page of the website</description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://samnium-tech.github.io/products/hardware/hardware/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/products/hardware/hardware/</guid>
+      <description>This is the Products page of the website</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://samnium-tech.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/posts/my-first-post/</guid>
+      <description>First Post This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://samnium-tech.github.io/services/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/services/</guid>
+      <description>This is the Services page of the website</description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://samnium-tech.github.io/products/software/software/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/products/software/software/</guid>
+      <description>This is the Products page of the website</description>
+    </item>
   </channel>
 </rss>

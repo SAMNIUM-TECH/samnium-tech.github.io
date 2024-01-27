@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on SAMNIUM TECH</title>
+    <link>https://samnium-tech.github.io/products/</link>
+    <description>Recent content in Products on SAMNIUM TECH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2024 22:33:05 +0100</lastBuildDate>
+    <atom:link href="https://samnium-tech.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hardware</title>
+      <link>https://samnium-tech.github.io/products/hardware/hardware/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/products/hardware/hardware/</guid>
+      <description>This is the Products page of the website</description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://samnium-tech.github.io/products/software/software/</link>
+      <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
+      <guid>https://samnium-tech.github.io/products/software/software/</guid>
+      <description>This is the Products page of the website</description>
+    </item>
+  </channel>
+</rss>
