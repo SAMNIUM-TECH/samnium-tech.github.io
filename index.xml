@@ -13,36 +13,41 @@
       <link>https://samnium-tech.github.io/about/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/about/</guid>
-      <description>This is the ABOUT page of the website</description>
+      <description>&amp;gt;15 Years of experience in the embedded Industry We at SAMNIUM TECH are specialists in embedded hardware and software.
+Company Info NAME: SAMNIUM TECH di Stefano Viola PIVA: 01583970528 ADDRESS: Via Cappella 27, 53048 Sinalunga (SI) E-MAIL: samnium.tech [@] gmail.com PHONE: +39 39239 42788 </description>
     </item>
     <item>
       <title>Hardware</title>
       <link>https://samnium-tech.github.io/products/hardware/hardware/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/products/hardware/hardware/</guid>
-      <description>This is the Products page of the website</description>
+      <description>This is the Products page of the website.
+Coming Soon!</description>
     </item>
     <item>
-      <title>My First Post</title>
+      <title>My First Post Video</title>
       <link>https://samnium-tech.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/posts/my-first-post/</guid>
       <description>First Post This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+Visit the Hugo website!
+Video embedded in the page This is an example of code </description>
     </item>
     <item>
       <title>Services</title>
       <link>https://samnium-tech.github.io/services/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/services/</guid>
-      <description>This is the Services page of the website</description>
+      <description>This is the Services page of the website.
+Coming Soon!</description>
     </item>
     <item>
       <title>Software</title>
       <link>https://samnium-tech.github.io/products/software/software/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/products/software/software/</guid>
-      <description>This is the Products page of the website</description>
+      <description>This is the Products page of the website.
+Coming Soon!</description>
     </item>
   </channel>
 </rss>
