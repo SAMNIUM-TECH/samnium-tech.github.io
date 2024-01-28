@@ -9,13 +9,13 @@
     <lastBuildDate>Fri, 26 Jan 2024 22:33:05 +0100</lastBuildDate>
     <atom:link href="https://samnium-tech.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post Video</title>
+      <title>SAMNIUM TECH is born!</title>
       <link>https://samnium-tech.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 26 Jan 2024 22:33:05 +0100</pubDate>
       <guid>https://samnium-tech.github.io/posts/my-first-post/</guid>
-      <description>First Post This is bold text, and this is emphasized text.
-Visit the Hugo website!
-Video embedded in the page This is an example of code </description>
+      <description>Samnium Tech is born! This is the first blog post on SAMNIUM TECH.
+SAMNIUM TECH was founded with the mission of bringing to market the expertise accumulated through over a decade of experience in both hardware and software projects, particularly within the embedded field. Our goal extends beyond designing and selling innovative products; we are committed to providing specialized consulting services to assist companies in need.
+Our team excels in offering expert consulting in embedded Linux, as well as real-time operating systems such as FreeRTOS, NuttX, ZephyrOS, and others.</description>
     </item>
   </channel>
 </rss>
